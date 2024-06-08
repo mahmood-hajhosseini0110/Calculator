@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "H:\\C## , C++\\C#\\Mashin Hesab\\Mashin Hesab\\Mashin Hesab.csproj",
+      "projectUniqueName": "C:\\Users\\Asre Technology\\Desktop\\Mashin Hesab\\Mashin Hesab\\Mashin Hesab.csproj",
       "projectName": "Mashin Hesab",
-      "projectPath": "H:\\C## , C++\\C#\\Mashin Hesab\\Mashin Hesab\\Mashin Hesab.csproj",
+      "projectPath": "C:\\Users\\Asre Technology\\Desktop\\Mashin Hesab\\Mashin Hesab\\Mashin Hesab.csproj",
       "packagesPath": "C:\\Users\\Asre Technology\\.nuget\\packages\\",
-      "outputPath": "H:\\C## , C++\\C#\\Mashin Hesab\\Mashin Hesab\\obj\\",
+      "outputPath": "C:\\Users\\Asre Technology\\Desktop\\Mashin Hesab\\Mashin Hesab\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Asre Technology\\AppData\\Roaming\\NuGet\\NuGet.Config",

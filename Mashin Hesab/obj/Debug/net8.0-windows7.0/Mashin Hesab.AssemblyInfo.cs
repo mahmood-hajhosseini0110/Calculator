@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Mashin Hesab")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b41db2eb6f029545614abb7108c559850361bbfb")]
 [assembly: System.Reflection.AssemblyProductAttribute("Mashin Hesab")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Mashin Hesab")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
