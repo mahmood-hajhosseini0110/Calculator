@@ -1,0 +1,34 @@
+C:\Users\Asre Technology\Desktop\Mashin Hesab\Mashin Hesab\bin\Debug\net8.0-windows\Mashin Hesab.exe
+C:\Users\Asre Technology\Desktop\Mashin Hesab\Mashin Hesab\bin\Debug\net8.0-windows\Mashin Hesab.deps.json
+C:\Users\Asre Technology\Desktop\Mashin Hesab\Mashin Hesab\bin\Debug\net8.0-windows\Mashin Hesab.runtimeconfig.json
+C:\Users\Asre Technology\Desktop\Mashin Hesab\Mashin Hesab\bin\Debug\net8.0-windows\Mashin Hesab.dll
+C:\Users\Asre Technology\Desktop\Mashin Hesab\Mashin Hesab\bin\Debug\net8.0-windows\Mashin Hesab.pdb
+C:\Users\Asre Technology\Desktop\Mashin Hesab\Mashin Hesab\obj\Debug\net8.0-windows\Mashin_Hesab.Form1.resources
+C:\Users\Asre Technology\Desktop\Mashin Hesab\Mashin Hesab\obj\Debug\net8.0-windows\Mashin_Hesab.Properties.Resources.resources
+C:\Users\Asre Technology\Desktop\Mashin Hesab\Mashin Hesab\obj\Debug\net8.0-windows\Mashin Hesab.csproj.GenerateResource.cache
+C:\Users\Asre Technology\Desktop\Mashin Hesab\Mashin Hesab\obj\Debug\net8.0-windows\Mashin Hesab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asre Technology\Desktop\Mashin Hesab\Mashin Hesab\obj\Debug\net8.0-windows\Mashin Hesab.AssemblyInfoInputs.cache
+C:\Users\Asre Technology\Desktop\Mashin Hesab\Mashin Hesab\obj\Debug\net8.0-windows\Mashin Hesab.AssemblyInfo.cs
+C:\Users\Asre Technology\Desktop\Mashin Hesab\Mashin Hesab\obj\Debug\net8.0-windows\Mashin Hesab.csproj.CoreCompileInputs.cache
+C:\Users\Asre Technology\Desktop\Mashin Hesab\Mashin Hesab\obj\Debug\net8.0-windows\Mashin Hesab.dll
+C:\Users\Asre Technology\Desktop\Mashin Hesab\Mashin Hesab\obj\Debug\net8.0-windows\refint\Mashin Hesab.dll
+C:\Users\Asre Technology\Desktop\Mashin Hesab\Mashin Hesab\obj\Debug\net8.0-windows\Mashin Hesab.pdb
+C:\Users\Asre Technology\Desktop\Mashin Hesab\Mashin Hesab\obj\Debug\net8.0-windows\Mashin Hesab.genruntimeconfig.cache
+C:\Users\Asre Technology\Desktop\Mashin Hesab\Mashin Hesab\obj\Debug\net8.0-windows\ref\Mashin Hesab.dll
+G:\Project Programing\Project = Mashin Hesab\Mashin Hesab\Mashin Hesab\bin\Debug\net8.0-windows\Mashin Hesab.exe
+G:\Project Programing\Project = Mashin Hesab\Mashin Hesab\Mashin Hesab\bin\Debug\net8.0-windows\Mashin Hesab.deps.json
+G:\Project Programing\Project = Mashin Hesab\Mashin Hesab\Mashin Hesab\bin\Debug\net8.0-windows\Mashin Hesab.runtimeconfig.json
+G:\Project Programing\Project = Mashin Hesab\Mashin Hesab\Mashin Hesab\bin\Debug\net8.0-windows\Mashin Hesab.dll
+G:\Project Programing\Project = Mashin Hesab\Mashin Hesab\Mashin Hesab\bin\Debug\net8.0-windows\Mashin Hesab.pdb
+G:\Project Programing\Project = Mashin Hesab\Mashin Hesab\Mashin Hesab\obj\Debug\net8.0-windows\Mashin_Hesab.Form1.resources
+G:\Project Programing\Project = Mashin Hesab\Mashin Hesab\Mashin Hesab\obj\Debug\net8.0-windows\Mashin_Hesab.Properties.Resources.resources
+G:\Project Programing\Project = Mashin Hesab\Mashin Hesab\Mashin Hesab\obj\Debug\net8.0-windows\Mashin Hesab.csproj.GenerateResource.cache
+G:\Project Programing\Project = Mashin Hesab\Mashin Hesab\Mashin Hesab\obj\Debug\net8.0-windows\Mashin Hesab.GeneratedMSBuildEditorConfig.editorconfig
+G:\Project Programing\Project = Mashin Hesab\Mashin Hesab\Mashin Hesab\obj\Debug\net8.0-windows\Mashin Hesab.AssemblyInfoInputs.cache
+G:\Project Programing\Project = Mashin Hesab\Mashin Hesab\Mashin Hesab\obj\Debug\net8.0-windows\Mashin Hesab.AssemblyInfo.cs
+G:\Project Programing\Project = Mashin Hesab\Mashin Hesab\Mashin Hesab\obj\Debug\net8.0-windows\Mashin Hesab.csproj.CoreCompileInputs.cache
+G:\Project Programing\Project = Mashin Hesab\Mashin Hesab\Mashin Hesab\obj\Debug\net8.0-windows\Mashin Hesab.dll
+G:\Project Programing\Project = Mashin Hesab\Mashin Hesab\Mashin Hesab\obj\Debug\net8.0-windows\refint\Mashin Hesab.dll
+G:\Project Programing\Project = Mashin Hesab\Mashin Hesab\Mashin Hesab\obj\Debug\net8.0-windows\Mashin Hesab.pdb
+G:\Project Programing\Project = Mashin Hesab\Mashin Hesab\Mashin Hesab\obj\Debug\net8.0-windows\Mashin Hesab.genruntimeconfig.cache
+G:\Project Programing\Project = Mashin Hesab\Mashin Hesab\Mashin Hesab\obj\Debug\net8.0-windows\ref\Mashin Hesab.dll

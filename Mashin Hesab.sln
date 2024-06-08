@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34616.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mashin Hesab", "Mashin Hesab\Mashin Hesab.csproj", "{E870F9A1-BD5F-4085-B06A-AC4EC13F727B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E870F9A1-BD5F-4085-B06A-AC4EC13F727B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E870F9A1-BD5F-4085-B06A-AC4EC13F727B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E870F9A1-BD5F-4085-B06A-AC4EC13F727B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E870F9A1-BD5F-4085-B06A-AC4EC13F727B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {606A77B2-0382-45B7-97A4-D47BEC96EDA2}
+	EndGlobalSection
+EndGlobal

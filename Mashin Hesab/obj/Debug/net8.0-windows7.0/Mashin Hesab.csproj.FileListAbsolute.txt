@@ -1,0 +1,17 @@
+G:\Project Programing\Project = Mashin Hesab\Mashin Hesab\Mashin Hesab\bin\Debug\net8.0-windows7.0\Mashin Hesab.exe
+G:\Project Programing\Project = Mashin Hesab\Mashin Hesab\Mashin Hesab\bin\Debug\net8.0-windows7.0\Mashin Hesab.deps.json
+G:\Project Programing\Project = Mashin Hesab\Mashin Hesab\Mashin Hesab\bin\Debug\net8.0-windows7.0\Mashin Hesab.runtimeconfig.json
+G:\Project Programing\Project = Mashin Hesab\Mashin Hesab\Mashin Hesab\bin\Debug\net8.0-windows7.0\Mashin Hesab.dll
+G:\Project Programing\Project = Mashin Hesab\Mashin Hesab\Mashin Hesab\bin\Debug\net8.0-windows7.0\Mashin Hesab.pdb
+G:\Project Programing\Project = Mashin Hesab\Mashin Hesab\Mashin Hesab\obj\Debug\net8.0-windows7.0\Mashin_Hesab.Form1.resources
+G:\Project Programing\Project = Mashin Hesab\Mashin Hesab\Mashin Hesab\obj\Debug\net8.0-windows7.0\Mashin_Hesab.Properties.Resources.resources
+G:\Project Programing\Project = Mashin Hesab\Mashin Hesab\Mashin Hesab\obj\Debug\net8.0-windows7.0\Mashin Hesab.csproj.GenerateResource.cache
+G:\Project Programing\Project = Mashin Hesab\Mashin Hesab\Mashin Hesab\obj\Debug\net8.0-windows7.0\Mashin Hesab.GeneratedMSBuildEditorConfig.editorconfig
+G:\Project Programing\Project = Mashin Hesab\Mashin Hesab\Mashin Hesab\obj\Debug\net8.0-windows7.0\Mashin Hesab.AssemblyInfoInputs.cache
+G:\Project Programing\Project = Mashin Hesab\Mashin Hesab\Mashin Hesab\obj\Debug\net8.0-windows7.0\Mashin Hesab.AssemblyInfo.cs
+G:\Project Programing\Project = Mashin Hesab\Mashin Hesab\Mashin Hesab\obj\Debug\net8.0-windows7.0\Mashin Hesab.csproj.CoreCompileInputs.cache
+G:\Project Programing\Project = Mashin Hesab\Mashin Hesab\Mashin Hesab\obj\Debug\net8.0-windows7.0\Mashin Hesab.dll
+G:\Project Programing\Project = Mashin Hesab\Mashin Hesab\Mashin Hesab\obj\Debug\net8.0-windows7.0\refint\Mashin Hesab.dll
+G:\Project Programing\Project = Mashin Hesab\Mashin Hesab\Mashin Hesab\obj\Debug\net8.0-windows7.0\Mashin Hesab.pdb
+G:\Project Programing\Project = Mashin Hesab\Mashin Hesab\Mashin Hesab\obj\Debug\net8.0-windows7.0\Mashin Hesab.genruntimeconfig.cache
+G:\Project Programing\Project = Mashin Hesab\Mashin Hesab\Mashin Hesab\obj\Debug\net8.0-windows7.0\ref\Mashin Hesab.dll

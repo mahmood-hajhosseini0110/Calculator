@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Mashin Hesab/1.0.0": {
+        "runtime": {
+          "Mashin Hesab.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Mashin Hesab/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
